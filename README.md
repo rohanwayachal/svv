@@ -1,2 +1,0 @@
-# svv
-Created with CodeSandbox
